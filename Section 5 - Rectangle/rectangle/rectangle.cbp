@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Assignment_1" />
+		<Option title="rectangle" />
 		<Option pch_mode="2" />
 		<Option compiler="cygwin" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Assignment_1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/rectangle" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="cygwin" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Assignment_1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/rectangle" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="cygwin" />
@@ -28,11 +28,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="print_name.c">
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
