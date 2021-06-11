@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623435594 source:c:\users\cstod\onedrive\desktop\udemy c course\section 7 - pay calculator\pay_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
