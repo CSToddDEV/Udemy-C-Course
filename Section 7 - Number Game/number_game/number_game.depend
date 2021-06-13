@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623544133 source:c:\users\cstod\onedrive\desktop\udemy c course\section 7 - number game\number_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
