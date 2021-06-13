@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623547335 source:c:\users\cstod\onedrive\desktop\udemy c course\section 8 - prime number generator\prime_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+
