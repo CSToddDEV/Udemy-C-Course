@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623603461 source:c:\users\cstod\onedrive\desktop\udemy c course\section 9 - tic tac toe\tic_tac_toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
