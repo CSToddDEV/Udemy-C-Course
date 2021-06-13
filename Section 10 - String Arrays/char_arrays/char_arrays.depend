@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623610961 source:c:\users\cstod\onedrive\desktop\udemy c course\section 10 - string arrays\char_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
