@@ -1,4 +1,4 @@
-/*
+5/*
 Author: Calvin Todd
 Assignment:  Using pass by reference, square a number.
 */
@@ -7,7 +7,7 @@ Assignment:  Using pass by reference, square a number.
 #include <stdlib.h>
 
 //Function Declarations
-int square(int *const pNum);
+void square(int *const pNum);
 
 int main()
 {
@@ -20,7 +20,7 @@ int main()
     scanf("%d", pNum);
 
     //Pass reference to function
-    num = square(pNum);
+    square(pNum);
 
     //Print result
     printf("\nThe result is: %d", *pNum);
@@ -29,8 +29,7 @@ int main()
 }
 
 //Function to square
-int square(int *const pNum)
+void square(int *const pNum)
 {
     * pNum = * pNum * * pNum;
-    return * pNum;
 }
