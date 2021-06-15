@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623776954 source:c:\users\cstod\onedrive\desktop\udemy c course\section 12 - dynamic memory\dynamic_memory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
