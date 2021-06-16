@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623807547 source:c:\users\cstod\onedrive\desktop\udemy c course\section 14 - convert file to uppercase\uppercase_file_converster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
